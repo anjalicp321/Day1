@@ -1,0 +1,27 @@
+h1{
+    color: brown;
+    text-align: center;
+    background-color: chocolate;
+    border: 2px;
+border-color: black;
+border-style: solid;
+border-radius: 19px;}
+table,th,td{
+    border: 2px rgb(22, 1, 1)solid;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+#head{
+    color: chartreuse;
+}
+.part1{
+    background-color: burlywood;
+    color: blue;
+    margin: 40px 70px 30px 50px;
+    padding: 50px;
+    background-image: url(https://t3.ftcdn.net/jpg/05/59/87/12/360_F_559871209_pbXlOVArUal3mk6Ce60JuP13kmuIRCth.jpg);
+    background-repeat: no-repeat;
+
+}
